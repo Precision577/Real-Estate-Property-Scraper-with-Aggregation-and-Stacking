@@ -1,0 +1,15 @@
+aiofiles
+aiologger
+asyncio
+backoff
+pandas
+pgeocode
+Pillow
+pytesseract
+python-json-logger
+selenium
+sqlite3
+tqdm
+uuid
+rapidfuzz
+

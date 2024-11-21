@@ -1,0 +1,238 @@
+2024-08-08 21:20:59 [INFO] CSV file selected: /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/storage/Hillsborough_County_Florida.csv
+2024-08-08 21:20:59 [INFO] CSV file prepared with all required columns.
+2024-08-08 21:25:38 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f491c857610>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/a1325650-938b-49fa-ae4c-0667f26be478
+2024-08-08 21:25:38 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f491c872e90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/a1325650-938b-49fa-ae4c-0667f26be478
+2024-08-08 21:25:38 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f491c856cd0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/a1325650-938b-49fa-ae4c-0667f26be478
+2024-08-08 21:25:39 [ERROR] Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py:450> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 494, in <module>
+    asyncio.run(main())
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 189, in run
+    with Runner(debug=debug) as runner:
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 63, in __exit__
+    self.close()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 71, in close
+    _cancel_all_tasks(loop)
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 201, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 607, in run_forever
+    self._run_once()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 1922, in _run_once
+    handle._run()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 473, in main
+    await asyncio.gather(*tasks)
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 607, in run_forever
+    self._run_once()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 1922, in _run_once
+    handle._run()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 378, in process_link
+    time.sleep(3)  # Delay before retrying
+    ^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+2024-08-08 21:25:59 [INFO] CSV file selected: /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/storage/Hillsborough_County_Florida.csv
+2024-08-08 21:25:59 [INFO] CSV file prepared with all required columns.
+2024-08-08 21:26:57 [INFO] CSV file selected: /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/storage/Hillsborough_County_Florida.csv
+2024-08-08 21:26:57 [INFO] CSV file prepared with all required columns.
+2024-08-08 21:33:02 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a21d93150>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/145ae544-bc4e-4a18-8d04-721b7b2e2392
+2024-08-08 21:33:02 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a21db87d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/145ae544-bc4e-4a18-8d04-721b7b2e2392
+2024-08-08 21:33:02 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5a214bdb10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/145ae544-bc4e-4a18-8d04-721b7b2e2392
+2024-08-08 21:33:03 [INFO] CSV file selected: /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/storage/Hillsborough_County_Florida.csv
+2024-08-08 21:33:03 [INFO] CSV file prepared with all required columns.
+2024-08-08 21:33:18 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f843aa58c10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c7c34805-4241-4328-9d68-3369ce8f9884
+2024-08-08 21:33:18 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f843aa264d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c7c34805-4241-4328-9d68-3369ce8f9884
+2024-08-08 21:33:18 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f843aa59690>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/c7c34805-4241-4328-9d68-3369ce8f9884
+2024-08-08 21:33:18 [ERROR] Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py:450> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 494, in <module>
+    asyncio.run(main())
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 189, in run
+    with Runner(debug=debug) as runner:
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 63, in __exit__
+    self.close()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 71, in close
+    _cancel_all_tasks(loop)
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 201, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 607, in run_forever
+    self._run_once()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 1922, in _run_once
+    handle._run()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 473, in main
+    await asyncio.gather(*tasks)
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 607, in run_forever
+    self._run_once()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 1922, in _run_once
+    handle._run()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 378, in process_link
+    time.sleep(3)  # Delay before retrying
+    ^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+2024-08-08 21:33:19 [INFO] CSV file selected: /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/storage/Hillsborough_County_Florida.csv
+2024-08-08 21:33:19 [INFO] CSV file prepared with all required columns.
+2024-08-08 21:34:06 [ERROR] Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py:450> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 494, in <module>
+    asyncio.run(main())
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 189, in run
+    with Runner(debug=debug) as runner:
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 63, in __exit__
+    self.close()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 71, in close
+    _cancel_all_tasks(loop)
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 201, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 607, in run_forever
+    self._run_once()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 1922, in _run_once
+    handle._run()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 473, in main
+    await asyncio.gather(*tasks)
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 607, in run_forever
+    self._run_once()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 1922, in _run_once
+    handle._run()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 378, in process_link
+    time.sleep(3)  # Delay before retrying
+    ^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+2024-08-08 21:34:41 [INFO] CSV file selected: /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/storage/Hillsborough_County_Florida.csv
+2024-08-08 21:34:41 [INFO] CSV file prepared with all required columns.
+2024-08-08 21:36:20 [ERROR] Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py:450> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 495, in <module>
+    asyncio.run(main())
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 189, in run
+    with Runner(debug=debug) as runner:
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 63, in __exit__
+    self.close()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 71, in close
+    _cancel_all_tasks(loop)
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 201, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 607, in run_forever
+    self._run_once()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 1922, in _run_once
+    handle._run()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 474, in main
+    await asyncio.gather(*tasks)
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 607, in run_forever
+    self._run_once()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 1922, in _run_once
+    handle._run()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 378, in process_link
+    time.sleep(3)  # Delay before retrying
+    ^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+2024-08-08 21:36:21 [INFO] CSV file selected: /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/storage/Hillsborough_County_Florida.csv
+2024-08-08 21:36:21 [INFO] CSV file prepared with all required columns.
+2024-08-08 21:55:06 [ERROR] Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at /home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py:450> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 495, in <module>
+    asyncio.run(main())
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 189, in run
+    with Runner(debug=debug) as runner:
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 63, in __exit__
+    self.close()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 71, in close
+    _cancel_all_tasks(loop)
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 201, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 607, in run_forever
+    self._run_once()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 1922, in _run_once
+    handle._run()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 474, in main
+    await asyncio.gather(*tasks)
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 640, in run_until_complete
+    self.run_forever()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 607, in run_forever
+    self._run_once()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/base_events.py", line 1922, in _run_once
+    handle._run()
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/idontloveyou/Desktop/LinuxServer1/onmarket/personal/steve/skiptrace.py", line 378, in process_link
+    time.sleep(3)  # Delay before retrying
+    ^^^^^^^^^^^^^
+  File "/home/idontloveyou/miniconda/lib/python3.11/asyncio/runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt

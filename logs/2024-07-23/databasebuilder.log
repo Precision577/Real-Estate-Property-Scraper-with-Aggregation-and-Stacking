@@ -1,0 +1,4 @@
+2024-07-23 07:36:53 - ERROR - Failed to update JSON database: list indices must be integers or slices, not dict
+2024-07-23 07:36:53 - INFO - Successfully deleted file: /home/idontloveyou/Desktop/onmarket/clients/Hillsborough/storage/Hillsborough_County_Florida.csv
+2024-07-23 07:36:53 - INFO - Total new contacts added: 5, New agents: ['Aida Falla', 'Alfredo Rodriguez Fonseca', 'Aldo Delacruz', 'A.B. Mull', 'Agnes Lirag']
+2024-07-23 07:36:53 - INFO - Total contacts updated: 0, Updated agents: []

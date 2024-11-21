@@ -1,0 +1,7 @@
+2024-08-05 07:08:35 [INFO] CSV file selected: /home/idontloveyou/Desktop/LinuxServer1/clients/Hillsborough/storage/Hillsborough_County_Florida.csv
+2024-08-05 07:08:35 [INFO] CSV file prepared with all required columns.
+2024-08-05 18:18:17 [INFO] CSV file selected: /home/idontloveyou/Desktop/LinuxServer1/clients/steve/storage/Hillsborough_County_Florida.csv
+2024-08-05 18:18:17 [INFO] CSV file prepared with all required columns.
+2024-08-05 18:33:13 [ERROR] No suitable .csv file found in the 'storage' directory.
+2024-08-05 18:56:51 [INFO] CSV file selected: /home/idontloveyou/Desktop/LinuxServer1/clients/steve/storage/Hillsborough_County_Florida.csv
+2024-08-05 18:56:51 [INFO] CSV file prepared with all required columns.

@@ -1,0 +1,62 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.redfin.com	TRUE	/	TRUE	1776658751	RF_BROWSER_ID	OmqbkwJyQSymUPACX8WPNg
+.redfin.com	TRUE	/	TRUE	1745122751	RF_BROWSER_ID_GREAT_FIRST_VISIT_TIMESTAMP	2024-04-19T21%3A19%3A11.956120
+.redfin.com	TRUE	/	TRUE	1714796351	RF_BID_UPDATED	1
+www.redfin.com	FALSE	/	FALSE	1745122756	__pdst	ba410b9b1cd14142b435cbba95300404
+.redfin.com	TRUE	/	FALSE	1747773456	_scid	984768d0-a981-4854-9ae0-2a6b8b3df733
+.redfin.com	TRUE	/	FALSE	1747773457	_sctr	1%7C1713542400000
+.redfin.com	TRUE	/	FALSE	1747282760	_tt_enable_cookie	1
+.redfin.com	TRUE	/	FALSE	1747282760	_ttp	uQSzEvj4SM-j9D-CWcabLlEA5TX
+www.redfin.com	FALSE	/	FALSE	1729138780	g_state	{"i_p":1713593980580,"i_l":1}
+.redfin.com	TRUE	/	FALSE	1721362755	_gcl_au	1.1.569011438.1713586755
+www.redfin.com	FALSE	/	FALSE	1713588367	audS	t
+www.redfin.com	FALSE	/	FALSE	1745123767	RF_CORVAIR_LAST_VERSION	519.2.0
+www.redfin.com	FALSE	/	FALSE	0	unifiedLastSearch	name%3DOrange%2520County%26subName%3DFL%252C%2520USA%26url%3D%252Fcounty%252F484%252FFL%252FOrange-County%26id%3D5_484%26type%3D5%26unifiedSearchType%3D5%26isSavedSearch%3D%26countryCode%3DUS
+www.redfin.com	FALSE	/	FALSE	0	RF_VISITED	true
+www.redfin.com	FALSE	/	FALSE	1745123813	usprivacy	1---
+www.redfin.com	FALSE	/	FALSE	1745124010	OneTrustWPCCPAGoogleOptOut	false
+www.redfin.com	FALSE	/	FALSE	0	RF_LAST_NAV	0
+www.redfin.com	FALSE	/	FALSE	1808196154	save_search_nudge_flyout	1%251713588154391%25false
+www.redfin.com	FALSE	/	FALSE	1745125881	searchMode	1
+www.redfin.com	FALSE	/	FALSE	2024629881	sortOrder	1
+www.redfin.com	FALSE	/	FALSE	2024629881	sortOption	special_blend
+www.redfin.com	FALSE	/	FALSE	1776660873	RF_LDP_VIEWS_FOR_PROMPT	%7B%22viewsData%22%3A%7B%2204-20-2024%22%3A%7B%22181202489%22%3A2%7D%7D%2C%22expiration%22%3A%222026-04-20T04%3A54%3A33.032Z%22%2C%22totalPromptedLdps%22%3A0%7D
+www.redfin.com	FALSE	/FL/Apopka/1103-Lakeside-Estates-Dr-32703/home	FALSE	1713592506	audS	t
+.redfin.com	TRUE	/	FALSE	1713595508	AMP_TOKEN	%24NOT_FOUND
+.redfin.com	TRUE	/	FALSE	1713591968	_dc_gtm_UA-294985-1	1
+.redfin.com	TRUE	/	FALSE	1745127928	RF_LAST_USER_ACTION	1713591928010%3Acad72eaf8bfe612a6d7604a8a729d15bd96a8cec
+.redfin.com	TRUE	/	TRUE	1745127928	RF_PARTY_ID	80214245
+.redfin.com	TRUE	/	TRUE	1745127928	RF_AUTH	b5548121190a11245661d488452c7048758c1584
+.redfin.com	TRUE	/	TRUE	1745127928	RF_W_AUTH	b5548121190a11245661d488452c7048758c1584
+.redfin.com	TRUE	/	TRUE	1745127928	RF_SECURE_AUTH	0100bad8fe8f0ac60f7d8ff457f350cfd4da2e28
+.redfin.com	TRUE	/	TRUE	1745127928	RF_ACCESS_LEVEL	2
+www.redfin.com	FALSE	/	TRUE	0	JSESSIONID	4A81A74D5291AFCBAE8A3380809BA03F
+.redfin.com	TRUE	/	FALSE	1808199929	shared_search_intros	1414098202%3D1713591929285%26dec%3D1713591929285%26ipc%3D1
+.redfin.com	TRUE	/	FALSE	1745127932	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+20+2024+13%3A45%3A32+GMT%2B0800+(Malaysia+Time)&version=202403.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68b94f67-4109-42ea-ae02-b4584aa980c0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CSPD_BG%3A1%2CC0002%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=ID%3BBA
+.redfin.com	TRUE	/	FALSE	1745127932	OptanonAlertBoxClosed	2024-04-20T05:45:32.012Z
+.redfin.com	TRUE	/	TRUE	1776663932	_ga_928P0PZ00X	GS1.1.1713591906.2.1.1713591932.34.0.0
+.redfin.com	TRUE	/	FALSE	1713678333	_gid	GA1.2.654240724.1713586759
+.redfin.com	TRUE	/	FALSE	1747778631	_scid_r	984768d0-a981-4854-9ae0-2a6b8b3df733
+www.redfin.com	FALSE	/	FALSE	4867191933	RF_MARKET	centralflorida
+www.redfin.com	FALSE	/	FALSE	4867191933	RF_BUSINESS_MARKET	87
+www.redfin.com	FALSE	/	FALSE	1714196733	RF_HOT_MARKET	%7B%22lastPromptedDate%22%3A1713591933928%2C%22expiration%22%3A1714196733928%2C%22promptedTimes%22%3A3%2C%22dailyPromptedTimes%22%3A3%7D
+www.redfin.com	FALSE	/	FALSE	2024631934	userPreferences	parcels%3Dtrue%26schools%3Dfalse%26mapStyle%3Ds%26statistics%3Dtrue%26agcTooltip%3Dfalse%26agentReset%3Dfalse%26ldpRegister%3Dfalse%26afCard%3D2%26schoolType%3D0%26lastSeenLdp%3DwithSharedSearchCookie%26viewedSwipeableHomeCardsDate%3D1713589881059
+.redfin.com	TRUE	/	FALSE	0	PageCount	3
+.redfin.com	TRUE	/	TRUE	1721367934	_rdt_uuid	1713586758811.72b21281-fed7-4b43-972e-7fb55472c50c
+.redfin.com	TRUE	/	FALSE	1839735934	RF_LISTING_VIEWS	181202489
+www.redfin.com	FALSE	/	FALSE	1839735934	RF_LAST_DP_SERVICE_REGION	995
+.redfin.com	TRUE	/	FALSE	1776663934	_ga_P8GPVZXD5S	GS1.1.1713591907.2.0.1713591934.0.0.0
+.redfin.com	TRUE	/	FALSE	1776663934	_ga	GA1.1.1743978137.1713586756
+.redfin.com	TRUE	/	FALSE	1713678334	_uetsid	27ecb660fecd11ee87e4678ca286d4ea
+.redfin.com	TRUE	/	FALSE	1747287934	_uetvid	27eca090fecd11eeaf6e19ca7e61a7ea
+www.redfin.com	FALSE	/	FALSE	1713592835	_dd_s	rum=0&expire=1713592835066
+.redfin.com	TRUE	/	FALSE	1745127935	_pin_unauth	dWlkPU1EQTJNRGRpT1dVdE5URmxNUzAwWlRFd0xUbGxZekl0Tm1Wak5HWTJOVFU0TW1VMQ
+www.redfin.com	FALSE	/	FALSE	1713593135	FEED_COUNT	%5B%221%22%2C%22t%22%5D
+www.redfin.com	FALSE	/	FALSE	1871358335	ki_t	1713588875349%3B1713588875349%3B1713591935494%3B1%3B3
+www.redfin.com	FALSE	/	FALSE	1871358335	ki_r	
+.redfin.com	TRUE	/	TRUE	1745127935	RF_LAST_ACCESS	1713591935968%3A1cb3127e77c9289a3c6cc5a9e51aa5f8726b602b
+.www.redfin.com	TRUE	/	FALSE	1716183936	RF_BROWSER_CAPABILITIES	%7B%22screen-size%22%3A4%2C%22events-touch%22%3Afalse%2C%22ios-app-store%22%3Afalse%2C%22google-play-store%22%3Afalse%2C%22ios-web-view%22%3Afalse%2C%22android-web-view%22%3Afalse%7D
+.redfin.com	TRUE	/	TRUE	1713937537	aws-waf-token	8200d71d-c098-4ddc-b36c-dcdead0feb85:GgoAeSooBpgCAAAA:Q6toNt43IXSEUqh29sY//68nX1W3maLKhcbNPYpb/9j9eoeKf06cUU9ekQglqsxDsDsT9YVqNDrH9tuMRWkvD0OlMOQD1ePM5xdzds1uLxrzhLd5Vb6x/gUfFW8KRC2CmJ6sCOdgyHgML7ZUVm6YNh7dSPojXza/X1vRlfBpAqf6RHWlwiaKUDVy91VGXkND0Uz6BAWuEYpY2cZKhiL33cM1IgguckW8YnNiHE0WtESwn0I0uX8lUqCQdcIhsA==

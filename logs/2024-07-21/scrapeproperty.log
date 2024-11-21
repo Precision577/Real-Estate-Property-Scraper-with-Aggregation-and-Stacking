@@ -1,0 +1,16 @@
+2024-07-21 23:13:08 - INFO - Starting the application.
+2024-07-21 23:13:08 - INFO - Initializing the database...
+2024-07-21 23:13:08 - INFO - Database tables created successfully.
+2024-07-21 23:13:08 - INFO - Database initialized successfully.
+2024-07-21 23:13:08 - INFO - Initializing the database...
+2024-07-21 23:13:08 - INFO - Database tables created successfully.
+2024-07-21 23:13:08 - INFO - Loaded 0 unprocessed URLs for location Hillsborough_County_Florida.
+2024-07-21 23:13:08 - INFO - No URLs to process for location Hillsborough_County_Florida. Exiting...
+2024-07-21 23:13:08 - ERROR - An error occurred in the main function.
+Traceback (most recent call last):
+  File "/home/idontloveyou/Desktop/onmarket/clients/collete/scrapeproperty.py", line 1537, in main
+    await main_async(logger)
+  File "/home/idontloveyou/Desktop/onmarket/clients/collete/scrapeproperty.py", line 1520, in main_async
+    if drivers:
+       ^^^^^^^
+UnboundLocalError: cannot access local variable 'drivers' where it is not associated with a value

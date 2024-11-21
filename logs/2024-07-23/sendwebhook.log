@@ -1,0 +1,945 @@
+2024-07-23 11:07:49 - INFO - Webhook URLs loaded: {'collete': {'create_contact': 'https://backend.leadconnectorhq.com/hooks/F1IhEd60NGym9Rgz1AbB/webhook-trigger/bCvtee0BGQB6JVtLFkHe', 'expired_listing': 'https://backend.leadconnectorhq.com/hooks/F1IhEd60NGym9Rgz1AbB/webhook-trigger/RM4tnvNrQf9vJR4z39R8'}}
+2024-07-23 11:12:48 - INFO - Webhook URLs loaded: {'collete': {'create_contact': 'https://backend.leadconnectorhq.com/hooks/F1IhEd60NGym9Rgz1AbB/webhook-trigger/bCvtee0BGQB6JVtLFkHe', 'expired_listing': 'https://backend.leadconnectorhq.com/hooks/F1IhEd60NGym9Rgz1AbB/webhook-trigger/RM4tnvNrQf9vJR4z39R8'}}
+2024-07-23 11:12:48 - INFO - No valid data to send for Amanda Reece.
+2024-07-23 11:12:48 - INFO - No valid data to send for Bradley Chais.
+2024-07-23 11:12:48 - INFO - No valid data to send for Brenda Wade.
+2024-07-23 11:12:48 - INFO - No valid data to send for Carson Kovath.
+2024-07-23 11:12:48 - INFO - No valid data to send for Casandra Vann.
+2024-07-23 11:12:48 - INFO - No valid data to send for Cisco Hernandez.
+2024-07-23 11:12:48 - INFO - No valid data to send for Danielle Jones.
+2024-07-23 11:12:48 - INFO - No valid data to send for David O'Brien.
+2024-07-23 11:12:48 - INFO - No valid data to send for Dawn Walls.
+2024-07-23 11:12:48 - INFO - No valid data to send for Denise Helbig.
+2024-07-23 11:12:48 - INFO - No valid data to send for Diane Huson, PA.
+2024-07-23 11:12:48 - INFO - No valid data to send for Dick Nielsen.
+2024-07-23 11:12:48 - INFO - No valid data to send for Don Suda.
+2024-07-23 11:12:48 - INFO - No valid data to send for Dumanet Joub Alcime.
+2024-07-23 11:12:48 - INFO - No valid data to send for Frank Albert.
+2024-07-23 11:12:48 - INFO - No valid data to send for Garth Jones PA.
+2024-07-23 11:12:48 - INFO - No valid data to send for Heather Fitzpatrick.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jackie De La Rosa.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jason Cooper.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jesse Carriedo.
+2024-07-23 11:12:48 - INFO - No valid data to send for Joe Medina.
+2024-07-23 11:12:48 - INFO - No valid data to send for KC Carty.
+2024-07-23 11:12:48 - INFO - No valid data to send for Kristy Darragh.
+2024-07-23 11:12:48 - INFO - No valid data to send for Matt Gardner.
+2024-07-23 11:12:48 - INFO - No valid data to send for Melissa Davis.
+2024-07-23 11:12:48 - INFO - No valid data to send for Michael Melnyk.
+2024-07-23 11:12:48 - INFO - No valid data to send for Not found.
+2024-07-23 11:12:48 - INFO - No valid data to send for Rob Jones.
+2024-07-23 11:12:48 - INFO - No valid data to send for Stephen Gay.
+2024-07-23 11:12:48 - INFO - No valid data to send for Stephen Hachey.
+2024-07-23 11:12:48 - INFO - No valid data to send for Steven Koleno.
+2024-07-23 11:12:48 - INFO - No valid data to send for Susan Witzigman.
+2024-07-23 11:12:48 - INFO - No valid data to send for Taylor Cresswell.
+2024-07-23 11:12:48 - INFO - No valid data to send for Zachary Vath.
+2024-07-23 11:12:48 - INFO - No valid data to send for Chad Crookes.
+2024-07-23 11:12:48 - INFO - No valid data to send for Gisselle Amparo.
+2024-07-23 11:12:48 - INFO - No valid data to send for Chandler Thompson.
+2024-07-23 11:12:48 - INFO - No valid data to send for Chris Thompson.
+2024-07-23 11:12:48 - INFO - No valid data to send for Toni Everett.
+2024-07-23 11:12:48 - INFO - No valid data to send for Eleydi Alvarez Lopez, LLC.
+2024-07-23 11:12:48 - INFO - No valid data to send for Lori Lahart.
+2024-07-23 11:12:48 - INFO - No valid data to send for Alla Giovinco.
+2024-07-23 11:12:48 - INFO - No valid data to send for Amy Conrad.
+2024-07-23 11:12:48 - INFO - No valid data to send for Antonio Brucato.
+2024-07-23 11:12:48 - INFO - No valid data to send for Arielle Corinti.
+2024-07-23 11:12:48 - INFO - No valid data to send for Bob Peercy.
+2024-07-23 11:12:48 - INFO - No valid data to send for Bradley Gruber.
+2024-07-23 11:12:48 - INFO - No valid data to send for Brenda Christian.
+2024-07-23 11:12:48 - INFO - No valid data to send for Brenda Rider.
+2024-07-23 11:12:48 - INFO - No valid data to send for Brian Kanicki.
+2024-07-23 11:12:48 - INFO - No valid data to send for Bridget Rowles.
+2024-07-23 11:12:48 - INFO - No valid data to send for Casey Gibson, P.A..
+2024-07-23 11:12:48 - INFO - No valid data to send for Cathy Hypes.
+2024-07-23 11:12:48 - INFO - No valid data to send for Catrina Mursch.
+2024-07-23 11:12:48 - INFO - No valid data to send for Chris Parrado.
+2024-07-23 11:12:48 - INFO - No valid data to send for Cody Brightwell.
+2024-07-23 11:12:48 - INFO - No valid data to send for Colleen Welch.
+2024-07-23 11:12:48 - INFO - No valid data to send for Crystal Brady.
+2024-07-23 11:12:48 - INFO - No valid data to send for Dale Ling.
+2024-07-23 11:12:48 - INFO - No valid data to send for Daniel Cuevas.
+2024-07-23 11:12:48 - INFO - No valid data to send for Daniel Fox.
+2024-07-23 11:12:48 - INFO - No valid data to send for Darren Kempf.
+2024-07-23 11:12:48 - INFO - No valid data to send for Dave Green.
+2024-07-23 11:12:48 - INFO - No valid data to send for David Price.
+2024-07-23 11:12:48 - INFO - No valid data to send for Dayna Santana.
+2024-07-23 11:12:48 - INFO - No valid data to send for DeeAnn Becht.
+2024-07-23 11:12:48 - INFO - No valid data to send for Denice Spanola.
+2024-07-23 11:12:48 - INFO - No valid data to send for Diana Pomarico PA.
+2024-07-23 11:12:48 - INFO - No valid data to send for Donnell Carter.
+2024-07-23 11:12:48 - INFO - No valid data to send for Edgar Berben.
+2024-07-23 11:12:48 - INFO - No valid data to send for Estrellita Woerner.
+2024-07-23 11:12:48 - INFO - No valid data to send for Fakir Hossain.
+2024-07-23 11:12:48 - INFO - No valid data to send for Florin Patrascoiu.
+2024-07-23 11:12:48 - INFO - No valid data to send for Gabby Medrano.
+2024-07-23 11:12:48 - INFO - No valid data to send for Gabriel Molinet.
+2024-07-23 11:12:48 - INFO - No valid data to send for Gabrielle Palazzo.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jac Smith.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jacqueline Toledo LLC.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jeff Wong.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jenny Rothman.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jorge Zea.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jose Espinosa.
+2024-07-23 11:12:48 - INFO - No valid data to send for Justin Hubbard.
+2024-07-23 11:12:48 - INFO - No valid data to send for Justin Ricke.
+2024-07-23 11:12:48 - INFO - No valid data to send for Karen Young.
+2024-07-23 11:12:48 - INFO - No valid data to send for Kari Workman.
+2024-07-23 11:12:48 - INFO - No valid data to send for Karl Lawrence.
+2024-07-23 11:12:48 - INFO - No valid data to send for Katrina Madewell.
+2024-07-23 11:12:48 - INFO - No valid data to send for Kayla Faye Rhodes.
+2024-07-23 11:12:48 - INFO - No valid data to send for Kimberly Fleming.
+2024-07-23 11:12:48 - INFO - No valid data to send for Leslie Sibbitt.
+2024-07-23 11:12:48 - INFO - No valid data to send for Lexi Guice.
+2024-07-23 11:12:48 - INFO - No valid data to send for Linda Aiken.
+2024-07-23 11:12:48 - INFO - No valid data to send for Linda Temples.
+2024-07-23 11:12:48 - INFO - No valid data to send for Linda Thrasher-Donalson.
+2024-07-23 11:12:48 - INFO - No valid data to send for Lisa Prisco.
+2024-07-23 11:12:48 - INFO - No valid data to send for Louis Pullara, Jr.
+2024-07-23 11:12:48 - INFO - No valid data to send for Manish Ajvalia.
+2024-07-23 11:12:48 - INFO - No valid data to send for Maria Santana.
+2024-07-23 11:12:48 - INFO - No valid data to send for Mariam Berrios.
+2024-07-23 11:12:48 - INFO - No valid data to send for Mark Cordasco.
+2024-07-23 11:12:48 - INFO - No valid data to send for Matt Pereira.
+2024-07-23 11:12:48 - INFO - No valid data to send for Matt Sofarelli.
+2024-07-23 11:12:48 - INFO - No valid data to send for Merlyn Velez Bodib.
+2024-07-23 11:12:48 - INFO - No valid data to send for Mervin Walls.
+2024-07-23 11:12:48 - INFO - No valid data to send for Michael Peeples.
+2024-07-23 11:12:48 - INFO - No valid data to send for Milan Candela.
+2024-07-23 11:12:48 - INFO - No valid data to send for Monique Simpson.
+2024-07-23 11:12:48 - INFO - No valid data to send for Nelson Mateus.
+2024-07-23 11:12:48 - INFO - No valid data to send for Pam Richardson.
+2024-07-23 11:12:48 - INFO - No valid data to send for Pat Moxley.
+2024-07-23 11:12:48 - INFO - No valid data to send for Patti Webster.
+2024-07-23 11:12:48 - INFO - No valid data to send for Pete Radeka.
+2024-07-23 11:12:48 - INFO - No valid data to send for Peter Murphy.
+2024-07-23 11:12:48 - INFO - No valid data to send for Precious Wilson.
+2024-07-23 11:12:48 - INFO - No valid data to send for RJ Kulangara.
+2024-07-23 11:12:48 - INFO - No valid data to send for Randall Heffernan.
+2024-07-23 11:12:48 - INFO - No valid data to send for Randy Click.
+2024-07-23 11:12:48 - INFO - No valid data to send for Ray Garza.
+2024-07-23 11:12:48 - INFO - No valid data to send for Richard Simonetti.
+2024-07-23 11:12:48 - INFO - No valid data to send for Roxanne Rose.
+2024-07-23 11:12:48 - INFO - No valid data to send for Ryan Smith.
+2024-07-23 11:12:48 - INFO - No valid data to send for Sandee Dillon-Mooney.
+2024-07-23 11:12:48 - INFO - No valid data to send for Sandy Streit.
+2024-07-23 11:12:48 - INFO - No valid data to send for Shawn Miller.
+2024-07-23 11:12:48 - INFO - No valid data to send for Shelly Espy.
+2024-07-23 11:12:48 - INFO - No valid data to send for Skyler Warden.
+2024-07-23 11:12:48 - INFO - No valid data to send for Stephanie Glenn.
+2024-07-23 11:12:48 - INFO - No valid data to send for Taylor Schaberg.
+2024-07-23 11:12:48 - INFO - No valid data to send for Tyler Loyd.
+2024-07-23 11:12:48 - INFO - No valid data to send for Vladymir Joseph.
+2024-07-23 11:12:48 - INFO - No valid data to send for Vojtech Bosek.
+2024-07-23 11:12:48 - INFO - No valid data to send for Yvonne Reyes.
+2024-07-23 11:12:48 - INFO - No valid data to send for Zaida Darley.
+2024-07-23 11:12:48 - INFO - No valid data to send for A.J. Altieri.
+2024-07-23 11:12:48 - INFO - No valid data to send for Anna Mazo.
+2024-07-23 11:12:48 - INFO - No valid data to send for Carla Perez.
+2024-07-23 11:12:48 - INFO - No valid data to send for Chris Jones.
+2024-07-23 11:12:48 - INFO - No valid data to send for Darrell Herbert.
+2024-07-23 11:12:48 - INFO - No valid data to send for Deb Breaw.
+2024-07-23 11:12:48 - INFO - No valid data to send for Debra Fitzgerald.
+2024-07-23 11:12:48 - INFO - No valid data to send for Derek Hessler.
+2024-07-23 11:12:48 - INFO - No valid data to send for Doreen Greco Ide.
+2024-07-23 11:12:48 - INFO - No valid data to send for Duyen Vo.
+2024-07-23 11:12:48 - INFO - No valid data to send for Eduardo San Roman.
+2024-07-23 11:12:48 - INFO - No valid data to send for Emmy Butte.
+2024-07-23 11:12:48 - INFO - No valid data to send for Erica Burgos.
+2024-07-23 11:12:48 - INFO - No valid data to send for Erika Greene.
+2024-07-23 11:12:48 - INFO - No valid data to send for Isabel Surtani.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jada Uludag.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jared Warren.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jason Aprile.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jeffrey Gould.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jesse Hoover.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jillianne Graham.
+2024-07-23 11:12:48 - INFO - No valid data to send for Johanna Diaz.
+2024-07-23 11:12:48 - INFO - No valid data to send for Justin Ure.
+2024-07-23 11:12:48 - INFO - No valid data to send for Lara Champ Mays LLC.
+2024-07-23 11:12:48 - INFO - No valid data to send for Manny Sabogal.
+2024-07-23 11:12:48 - INFO - No valid data to send for Marcus Jeudy.
+2024-07-23 11:12:48 - INFO - No valid data to send for Maria Miller.
+2024-07-23 11:12:48 - INFO - No valid data to send for Matthew Derocher.
+2024-07-23 11:12:48 - INFO - No valid data to send for Melody Gallion.
+2024-07-23 11:12:48 - INFO - No valid data to send for Michelle DiGiore.
+2024-07-23 11:12:48 - INFO - No valid data to send for Mike Bosko.
+2024-07-23 11:12:48 - INFO - No valid data to send for Mindy Nguyen.
+2024-07-23 11:12:48 - INFO - No valid data to send for Nadine Mamontoff.
+2024-07-23 11:12:48 - INFO - No valid data to send for Nesil Uzunoglu.
+2024-07-23 11:12:48 - INFO - No valid data to send for Noemi Fuentes.
+2024-07-23 11:12:48 - INFO - No valid data to send for Omar Montero Escobar.
+2024-07-23 11:12:48 - INFO - No valid data to send for Sheri Scott.
+2024-07-23 11:12:48 - INFO - No valid data to send for Sirky Medina Gracia.
+2024-07-23 11:12:48 - INFO - No valid data to send for Steven Moran.
+2024-07-23 11:12:48 - INFO - No valid data to send for Team Pillay Pillay.
+2024-07-23 11:12:48 - INFO - No valid data to send for Trudy McClellan.
+2024-07-23 11:12:48 - INFO - No valid data to send for Vicki Strickler.
+2024-07-23 11:12:48 - INFO - No valid data to send for William Alvarez, Jr.
+2024-07-23 11:12:48 - INFO - No valid data to send for Yuleidis Cutino Aladro.
+2024-07-23 11:12:48 - INFO - No valid data to send for Aaron Mighty.
+2024-07-23 11:12:48 - INFO - No valid data to send for Alex Gromkov.
+2024-07-23 11:12:48 - INFO - No valid data to send for Andre Tamburello.
+2024-07-23 11:12:48 - INFO - No valid data to send for Andrea Hernandez.
+2024-07-23 11:12:48 - INFO - No valid data to send for Angel Miller.
+2024-07-23 11:12:48 - INFO - No valid data to send for Angela Martin.
+2024-07-23 11:12:48 - INFO - No valid data to send for Ashley Mason.
+2024-07-23 11:12:48 - INFO - No valid data to send for Barbara Barco.
+2024-07-23 11:12:48 - INFO - No valid data to send for Brigittia Nickel-Long.
+2024-07-23 11:12:48 - INFO - No valid data to send for Carol Frier.
+2024-07-23 11:12:48 - INFO - No valid data to send for Celia Petters, PA.
+2024-07-23 11:12:48 - INFO - No valid data to send for Connor Loyd.
+2024-07-23 11:12:48 - INFO - No valid data to send for Dawn Turner.
+2024-07-23 11:12:48 - INFO - No valid data to send for Dean Diakonis.
+2024-07-23 11:12:48 - INFO - No valid data to send for Dillon Cook.
+2024-07-23 11:12:48 - INFO - No valid data to send for Gail Beskid.
+2024-07-23 11:12:48 - INFO - No valid data to send for Gina Guimoye Ehremberg.
+2024-07-23 11:12:48 - INFO - No valid data to send for Gouzel Kash.
+2024-07-23 11:12:48 - INFO - No valid data to send for Gustavo Serpa.
+2024-07-23 11:12:48 - INFO - No valid data to send for Ingrid Dodd.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jack Keller.
+2024-07-23 11:12:48 - INFO - No valid data to send for Joby Pullappally.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jodi Pollack.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jose Ortiz.
+2024-07-23 11:12:48 - INFO - No valid data to send for Julie Lawrence.
+2024-07-23 11:12:48 - INFO - No valid data to send for Kathleen Wainoris.
+2024-07-23 11:12:48 - INFO - No valid data to send for Leza Sharipoff.
+2024-07-23 11:12:48 - INFO - No valid data to send for Lynne Halleran.
+2024-07-23 11:12:48 - INFO - No valid data to send for Michael LaVoy, PA.
+2024-07-23 11:12:48 - INFO - No valid data to send for Patrick Tillett.
+2024-07-23 11:12:48 - INFO - No valid data to send for Richard Brown.
+2024-07-23 11:12:48 - INFO - No valid data to send for Ryan Chamblee.
+2024-07-23 11:12:48 - INFO - No valid data to send for Taylor Clark.
+2024-07-23 11:12:48 - INFO - No valid data to send for Todd Bennett.
+2024-07-23 11:12:48 - INFO - No valid data to send for Yesenia Castillo.
+2024-07-23 11:12:48 - INFO - No valid data to send for Yudit Grisanty.
+2024-07-23 11:12:48 - INFO - No valid data to send for Charnie Reyes.
+2024-07-23 11:12:48 - INFO - No valid data to send for DAVE McCann.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jennifer Boleyn.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jennifer Dobbs.
+2024-07-23 11:12:48 - INFO - No valid data to send for John Daux PA.
+2024-07-23 11:12:48 - INFO - No valid data to send for Paul Farr.
+2024-07-23 11:12:48 - INFO - No valid data to send for Punit Shah.
+2024-07-23 11:12:48 - INFO - No valid data to send for Rafael Lozano, III.
+2024-07-23 11:12:48 - INFO - No valid data to send for Ryan Kirby.
+2024-07-23 11:12:48 - INFO - No valid data to send for Will Daoud.
+2024-07-23 11:12:48 - INFO - No valid data to send for Ylivette Hoepelman.
+2024-07-23 11:12:48 - INFO - No valid data to send for Jeremy Kloter.
+2024-07-23 11:12:48 - INFO - No valid data to send for Joy Lolli.
+2024-07-23 11:12:48 - INFO - No valid data to send for Julio Manso.
+2024-07-23 11:12:48 - INFO - No valid data to send for Marvin Felix.
+2024-07-23 11:12:48 - INFO - No valid data to send for Ryan Hackney.
+2024-07-23 11:12:48 - INFO - No valid data to send for Zachary Boyle.
+2024-07-23 11:15:08 - INFO - Webhook URLs loaded: {'collete': {'create_contact': 'https://backend.leadconnectorhq.com/hooks/F1IhEd60NGym9Rgz1AbB/webhook-trigger/bCvtee0BGQB6JVtLFkHe', 'expired_listing': 'https://backend.leadconnectorhq.com/hooks/F1IhEd60NGym9Rgz1AbB/webhook-trigger/RM4tnvNrQf9vJR4z39R8'}}
+2024-07-23 11:15:08 - INFO - No valid data to send for Amanda Reece.
+2024-07-23 11:15:08 - INFO - No valid data to send for Bradley Chais.
+2024-07-23 11:15:08 - INFO - No valid data to send for Brenda Wade.
+2024-07-23 11:15:08 - INFO - No valid data to send for Carson Kovath.
+2024-07-23 11:15:08 - INFO - No valid data to send for Casandra Vann.
+2024-07-23 11:15:08 - INFO - No valid data to send for Cisco Hernandez.
+2024-07-23 11:15:08 - INFO - No valid data to send for Danielle Jones.
+2024-07-23 11:15:08 - INFO - No valid data to send for David O'Brien.
+2024-07-23 11:15:08 - INFO - No valid data to send for Dawn Walls.
+2024-07-23 11:15:08 - INFO - No valid data to send for Denise Helbig.
+2024-07-23 11:15:08 - INFO - No valid data to send for Diane Huson, PA.
+2024-07-23 11:15:08 - INFO - No valid data to send for Dick Nielsen.
+2024-07-23 11:15:08 - INFO - No valid data to send for Don Suda.
+2024-07-23 11:15:08 - INFO - No valid data to send for Dumanet Joub Alcime.
+2024-07-23 11:15:08 - INFO - No valid data to send for Frank Albert.
+2024-07-23 11:15:08 - INFO - No valid data to send for Garth Jones PA.
+2024-07-23 11:15:08 - INFO - No valid data to send for Heather Fitzpatrick.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jackie De La Rosa.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jason Cooper.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jesse Carriedo.
+2024-07-23 11:15:08 - INFO - No valid data to send for Joe Medina.
+2024-07-23 11:15:08 - INFO - No valid data to send for KC Carty.
+2024-07-23 11:15:08 - INFO - No valid data to send for Kristy Darragh.
+2024-07-23 11:15:08 - INFO - No valid data to send for Matt Gardner.
+2024-07-23 11:15:08 - INFO - No valid data to send for Melissa Davis.
+2024-07-23 11:15:08 - INFO - No valid data to send for Michael Melnyk.
+2024-07-23 11:15:08 - INFO - No valid data to send for Not found.
+2024-07-23 11:15:08 - INFO - No valid data to send for Rob Jones.
+2024-07-23 11:15:08 - INFO - No valid data to send for Stephen Gay.
+2024-07-23 11:15:08 - INFO - No valid data to send for Stephen Hachey.
+2024-07-23 11:15:08 - INFO - No valid data to send for Steven Koleno.
+2024-07-23 11:15:08 - INFO - No valid data to send for Susan Witzigman.
+2024-07-23 11:15:08 - INFO - No valid data to send for Taylor Cresswell.
+2024-07-23 11:15:08 - INFO - No valid data to send for Zachary Vath.
+2024-07-23 11:15:08 - INFO - No valid data to send for Chad Crookes.
+2024-07-23 11:15:08 - INFO - No valid data to send for Gisselle Amparo.
+2024-07-23 11:15:08 - INFO - No valid data to send for Chandler Thompson.
+2024-07-23 11:15:08 - INFO - No valid data to send for Chris Thompson.
+2024-07-23 11:15:08 - INFO - No valid data to send for Toni Everett.
+2024-07-23 11:15:08 - INFO - No valid data to send for Eleydi Alvarez Lopez, LLC.
+2024-07-23 11:15:08 - INFO - No valid data to send for Lori Lahart.
+2024-07-23 11:15:08 - INFO - No valid data to send for Alla Giovinco.
+2024-07-23 11:15:08 - INFO - No valid data to send for Amy Conrad.
+2024-07-23 11:15:08 - INFO - No valid data to send for Antonio Brucato.
+2024-07-23 11:15:08 - INFO - No valid data to send for Arielle Corinti.
+2024-07-23 11:15:08 - INFO - No valid data to send for Bob Peercy.
+2024-07-23 11:15:08 - INFO - No valid data to send for Bradley Gruber.
+2024-07-23 11:15:08 - INFO - No valid data to send for Brenda Christian.
+2024-07-23 11:15:08 - INFO - No valid data to send for Brenda Rider.
+2024-07-23 11:15:08 - INFO - No valid data to send for Brian Kanicki.
+2024-07-23 11:15:08 - INFO - No valid data to send for Bridget Rowles.
+2024-07-23 11:15:08 - INFO - No valid data to send for Casey Gibson, P.A..
+2024-07-23 11:15:08 - INFO - No valid data to send for Cathy Hypes.
+2024-07-23 11:15:08 - INFO - No valid data to send for Catrina Mursch.
+2024-07-23 11:15:08 - INFO - No valid data to send for Chris Parrado.
+2024-07-23 11:15:08 - INFO - No valid data to send for Cody Brightwell.
+2024-07-23 11:15:08 - INFO - No valid data to send for Colleen Welch.
+2024-07-23 11:15:08 - INFO - No valid data to send for Crystal Brady.
+2024-07-23 11:15:08 - INFO - No valid data to send for Dale Ling.
+2024-07-23 11:15:08 - INFO - No valid data to send for Daniel Cuevas.
+2024-07-23 11:15:08 - INFO - No valid data to send for Daniel Fox.
+2024-07-23 11:15:08 - INFO - No valid data to send for Darren Kempf.
+2024-07-23 11:15:08 - INFO - No valid data to send for Dave Green.
+2024-07-23 11:15:08 - INFO - No valid data to send for David Price.
+2024-07-23 11:15:08 - INFO - No valid data to send for Dayna Santana.
+2024-07-23 11:15:08 - INFO - No valid data to send for DeeAnn Becht.
+2024-07-23 11:15:08 - INFO - No valid data to send for Denice Spanola.
+2024-07-23 11:15:08 - INFO - No valid data to send for Diana Pomarico PA.
+2024-07-23 11:15:08 - INFO - No valid data to send for Donnell Carter.
+2024-07-23 11:15:08 - INFO - No valid data to send for Edgar Berben.
+2024-07-23 11:15:08 - INFO - No valid data to send for Estrellita Woerner.
+2024-07-23 11:15:08 - INFO - No valid data to send for Fakir Hossain.
+2024-07-23 11:15:08 - INFO - No valid data to send for Florin Patrascoiu.
+2024-07-23 11:15:08 - INFO - No valid data to send for Gabby Medrano.
+2024-07-23 11:15:08 - INFO - No valid data to send for Gabriel Molinet.
+2024-07-23 11:15:08 - INFO - No valid data to send for Gabrielle Palazzo.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jac Smith.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jacqueline Toledo LLC.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jeff Wong.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jenny Rothman.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jorge Zea.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jose Espinosa.
+2024-07-23 11:15:08 - INFO - No valid data to send for Justin Hubbard.
+2024-07-23 11:15:08 - INFO - No valid data to send for Justin Ricke.
+2024-07-23 11:15:08 - INFO - No valid data to send for Karen Young.
+2024-07-23 11:15:08 - INFO - No valid data to send for Kari Workman.
+2024-07-23 11:15:08 - INFO - No valid data to send for Karl Lawrence.
+2024-07-23 11:15:08 - INFO - No valid data to send for Katrina Madewell.
+2024-07-23 11:15:08 - INFO - No valid data to send for Kayla Faye Rhodes.
+2024-07-23 11:15:08 - INFO - No valid data to send for Kimberly Fleming.
+2024-07-23 11:15:08 - INFO - No valid data to send for Leslie Sibbitt.
+2024-07-23 11:15:08 - INFO - No valid data to send for Lexi Guice.
+2024-07-23 11:15:08 - INFO - No valid data to send for Linda Aiken.
+2024-07-23 11:15:08 - INFO - No valid data to send for Linda Temples.
+2024-07-23 11:15:08 - INFO - No valid data to send for Linda Thrasher-Donalson.
+2024-07-23 11:15:08 - INFO - No valid data to send for Lisa Prisco.
+2024-07-23 11:15:08 - INFO - No valid data to send for Louis Pullara, Jr.
+2024-07-23 11:15:08 - INFO - No valid data to send for Manish Ajvalia.
+2024-07-23 11:15:08 - INFO - No valid data to send for Maria Santana.
+2024-07-23 11:15:08 - INFO - No valid data to send for Mariam Berrios.
+2024-07-23 11:15:08 - INFO - No valid data to send for Mark Cordasco.
+2024-07-23 11:15:08 - INFO - No valid data to send for Matt Pereira.
+2024-07-23 11:15:08 - INFO - No valid data to send for Matt Sofarelli.
+2024-07-23 11:15:08 - INFO - No valid data to send for Merlyn Velez Bodib.
+2024-07-23 11:15:08 - INFO - No valid data to send for Mervin Walls.
+2024-07-23 11:15:08 - INFO - No valid data to send for Michael Peeples.
+2024-07-23 11:15:08 - INFO - No valid data to send for Milan Candela.
+2024-07-23 11:15:08 - INFO - No valid data to send for Monique Simpson.
+2024-07-23 11:15:08 - INFO - No valid data to send for Nelson Mateus.
+2024-07-23 11:15:08 - INFO - No valid data to send for Pam Richardson.
+2024-07-23 11:15:08 - INFO - No valid data to send for Pat Moxley.
+2024-07-23 11:15:08 - INFO - No valid data to send for Patti Webster.
+2024-07-23 11:15:08 - INFO - No valid data to send for Pete Radeka.
+2024-07-23 11:15:08 - INFO - No valid data to send for Peter Murphy.
+2024-07-23 11:15:08 - INFO - No valid data to send for Precious Wilson.
+2024-07-23 11:15:08 - INFO - No valid data to send for RJ Kulangara.
+2024-07-23 11:15:08 - INFO - No valid data to send for Randall Heffernan.
+2024-07-23 11:15:08 - INFO - No valid data to send for Randy Click.
+2024-07-23 11:15:08 - INFO - No valid data to send for Ray Garza.
+2024-07-23 11:15:08 - INFO - No valid data to send for Richard Simonetti.
+2024-07-23 11:15:08 - INFO - No valid data to send for Roxanne Rose.
+2024-07-23 11:15:08 - INFO - No valid data to send for Ryan Smith.
+2024-07-23 11:15:08 - INFO - No valid data to send for Sandee Dillon-Mooney.
+2024-07-23 11:15:08 - INFO - No valid data to send for Sandy Streit.
+2024-07-23 11:15:08 - INFO - No valid data to send for Shawn Miller.
+2024-07-23 11:15:08 - INFO - No valid data to send for Shelly Espy.
+2024-07-23 11:15:08 - INFO - No valid data to send for Skyler Warden.
+2024-07-23 11:15:08 - INFO - No valid data to send for Stephanie Glenn.
+2024-07-23 11:15:08 - INFO - No valid data to send for Taylor Schaberg.
+2024-07-23 11:15:08 - INFO - No valid data to send for Tyler Loyd.
+2024-07-23 11:15:08 - INFO - No valid data to send for Vladymir Joseph.
+2024-07-23 11:15:08 - INFO - No valid data to send for Vojtech Bosek.
+2024-07-23 11:15:08 - INFO - No valid data to send for Yvonne Reyes.
+2024-07-23 11:15:08 - INFO - No valid data to send for Zaida Darley.
+2024-07-23 11:15:08 - INFO - No valid data to send for A.J. Altieri.
+2024-07-23 11:15:08 - INFO - No valid data to send for Anna Mazo.
+2024-07-23 11:15:08 - INFO - No valid data to send for Carla Perez.
+2024-07-23 11:15:08 - INFO - No valid data to send for Chris Jones.
+2024-07-23 11:15:08 - INFO - No valid data to send for Darrell Herbert.
+2024-07-23 11:15:08 - INFO - No valid data to send for Deb Breaw.
+2024-07-23 11:15:08 - INFO - No valid data to send for Debra Fitzgerald.
+2024-07-23 11:15:08 - INFO - No valid data to send for Derek Hessler.
+2024-07-23 11:15:08 - INFO - No valid data to send for Doreen Greco Ide.
+2024-07-23 11:15:08 - INFO - No valid data to send for Duyen Vo.
+2024-07-23 11:15:08 - INFO - No valid data to send for Eduardo San Roman.
+2024-07-23 11:15:08 - INFO - No valid data to send for Emmy Butte.
+2024-07-23 11:15:08 - INFO - No valid data to send for Erica Burgos.
+2024-07-23 11:15:08 - INFO - No valid data to send for Erika Greene.
+2024-07-23 11:15:08 - INFO - No valid data to send for Isabel Surtani.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jada Uludag.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jared Warren.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jason Aprile.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jeffrey Gould.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jesse Hoover.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jillianne Graham.
+2024-07-23 11:15:08 - INFO - No valid data to send for Johanna Diaz.
+2024-07-23 11:15:08 - INFO - No valid data to send for Justin Ure.
+2024-07-23 11:15:08 - INFO - No valid data to send for Lara Champ Mays LLC.
+2024-07-23 11:15:08 - INFO - No valid data to send for Manny Sabogal.
+2024-07-23 11:15:08 - INFO - No valid data to send for Marcus Jeudy.
+2024-07-23 11:15:08 - INFO - No valid data to send for Maria Miller.
+2024-07-23 11:15:08 - INFO - No valid data to send for Matthew Derocher.
+2024-07-23 11:15:08 - INFO - No valid data to send for Melody Gallion.
+2024-07-23 11:15:08 - INFO - No valid data to send for Michelle DiGiore.
+2024-07-23 11:15:08 - INFO - No valid data to send for Mike Bosko.
+2024-07-23 11:15:08 - INFO - No valid data to send for Mindy Nguyen.
+2024-07-23 11:15:08 - INFO - No valid data to send for Nadine Mamontoff.
+2024-07-23 11:15:08 - INFO - No valid data to send for Nesil Uzunoglu.
+2024-07-23 11:15:08 - INFO - No valid data to send for Noemi Fuentes.
+2024-07-23 11:15:08 - INFO - No valid data to send for Omar Montero Escobar.
+2024-07-23 11:15:08 - INFO - No valid data to send for Sheri Scott.
+2024-07-23 11:15:08 - INFO - No valid data to send for Sirky Medina Gracia.
+2024-07-23 11:15:08 - INFO - No valid data to send for Steven Moran.
+2024-07-23 11:15:08 - INFO - No valid data to send for Team Pillay Pillay.
+2024-07-23 11:15:08 - INFO - No valid data to send for Trudy McClellan.
+2024-07-23 11:15:08 - INFO - No valid data to send for Vicki Strickler.
+2024-07-23 11:15:08 - INFO - No valid data to send for William Alvarez, Jr.
+2024-07-23 11:15:08 - INFO - No valid data to send for Yuleidis Cutino Aladro.
+2024-07-23 11:15:08 - INFO - No valid data to send for Aaron Mighty.
+2024-07-23 11:15:08 - INFO - No valid data to send for Alex Gromkov.
+2024-07-23 11:15:08 - INFO - No valid data to send for Andre Tamburello.
+2024-07-23 11:15:08 - INFO - No valid data to send for Andrea Hernandez.
+2024-07-23 11:15:08 - INFO - No valid data to send for Angel Miller.
+2024-07-23 11:15:08 - INFO - No valid data to send for Angela Martin.
+2024-07-23 11:15:08 - INFO - No valid data to send for Ashley Mason.
+2024-07-23 11:15:08 - INFO - No valid data to send for Barbara Barco.
+2024-07-23 11:15:08 - INFO - No valid data to send for Brigittia Nickel-Long.
+2024-07-23 11:15:08 - INFO - No valid data to send for Carol Frier.
+2024-07-23 11:15:08 - INFO - No valid data to send for Celia Petters, PA.
+2024-07-23 11:15:08 - INFO - No valid data to send for Connor Loyd.
+2024-07-23 11:15:08 - INFO - No valid data to send for Dawn Turner.
+2024-07-23 11:15:08 - INFO - No valid data to send for Dean Diakonis.
+2024-07-23 11:15:08 - INFO - No valid data to send for Dillon Cook.
+2024-07-23 11:15:08 - INFO - No valid data to send for Gail Beskid.
+2024-07-23 11:15:08 - INFO - No valid data to send for Gina Guimoye Ehremberg.
+2024-07-23 11:15:08 - INFO - No valid data to send for Gouzel Kash.
+2024-07-23 11:15:08 - INFO - No valid data to send for Gustavo Serpa.
+2024-07-23 11:15:08 - INFO - No valid data to send for Ingrid Dodd.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jack Keller.
+2024-07-23 11:15:08 - INFO - No valid data to send for Joby Pullappally.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jodi Pollack.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jose Ortiz.
+2024-07-23 11:15:08 - INFO - No valid data to send for Julie Lawrence.
+2024-07-23 11:15:08 - INFO - No valid data to send for Kathleen Wainoris.
+2024-07-23 11:15:08 - INFO - No valid data to send for Leza Sharipoff.
+2024-07-23 11:15:08 - INFO - No valid data to send for Lynne Halleran.
+2024-07-23 11:15:08 - INFO - No valid data to send for Michael LaVoy, PA.
+2024-07-23 11:15:08 - INFO - No valid data to send for Patrick Tillett.
+2024-07-23 11:15:08 - INFO - No valid data to send for Richard Brown.
+2024-07-23 11:15:08 - INFO - No valid data to send for Ryan Chamblee.
+2024-07-23 11:15:08 - INFO - No valid data to send for Taylor Clark.
+2024-07-23 11:15:08 - INFO - No valid data to send for Todd Bennett.
+2024-07-23 11:15:08 - INFO - No valid data to send for Yesenia Castillo.
+2024-07-23 11:15:08 - INFO - No valid data to send for Yudit Grisanty.
+2024-07-23 11:15:08 - INFO - No valid data to send for Charnie Reyes.
+2024-07-23 11:15:08 - INFO - No valid data to send for DAVE McCann.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jennifer Boleyn.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jennifer Dobbs.
+2024-07-23 11:15:08 - INFO - No valid data to send for John Daux PA.
+2024-07-23 11:15:08 - INFO - No valid data to send for Paul Farr.
+2024-07-23 11:15:08 - INFO - No valid data to send for Punit Shah.
+2024-07-23 11:15:08 - INFO - No valid data to send for Rafael Lozano, III.
+2024-07-23 11:15:08 - INFO - No valid data to send for Ryan Kirby.
+2024-07-23 11:15:08 - INFO - No valid data to send for Will Daoud.
+2024-07-23 11:15:08 - INFO - No valid data to send for Ylivette Hoepelman.
+2024-07-23 11:15:08 - INFO - No valid data to send for Jeremy Kloter.
+2024-07-23 11:15:08 - INFO - No valid data to send for Joy Lolli.
+2024-07-23 11:15:08 - INFO - No valid data to send for Julio Manso.
+2024-07-23 11:15:08 - INFO - No valid data to send for Marvin Felix.
+2024-07-23 11:15:08 - INFO - No valid data to send for Ryan Hackney.
+2024-07-23 11:15:08 - INFO - No valid data to send for Zachary Boyle.
+2024-07-23 11:16:37 - INFO - Webhook URLs loaded: {'collete': {'create_contact': 'https://backend.leadconnectorhq.com/hooks/F1IhEd60NGym9Rgz1AbB/webhook-trigger/bCvtee0BGQB6JVtLFkHe', 'expired_listing': 'https://backend.leadconnectorhq.com/hooks/F1IhEd60NGym9Rgz1AbB/webhook-trigger/RM4tnvNrQf9vJR4z39R8'}}
+2024-07-23 11:16:37 - INFO - No valid data to send for Amanda Reece.
+2024-07-23 11:16:37 - INFO - No valid data to send for Bradley Chais.
+2024-07-23 11:16:37 - INFO - No valid data to send for Brenda Wade.
+2024-07-23 11:16:37 - INFO - No valid data to send for Carson Kovath.
+2024-07-23 11:16:37 - INFO - No valid data to send for Casandra Vann.
+2024-07-23 11:16:37 - INFO - No valid data to send for Cisco Hernandez.
+2024-07-23 11:16:37 - INFO - No valid data to send for Danielle Jones.
+2024-07-23 11:16:37 - INFO - No valid data to send for David O'Brien.
+2024-07-23 11:16:37 - INFO - No valid data to send for Dawn Walls.
+2024-07-23 11:16:37 - INFO - No valid data to send for Denise Helbig.
+2024-07-23 11:16:37 - INFO - No valid data to send for Diane Huson, PA.
+2024-07-23 11:16:37 - INFO - No valid data to send for Dick Nielsen.
+2024-07-23 11:16:37 - INFO - No valid data to send for Don Suda.
+2024-07-23 11:16:37 - INFO - No valid data to send for Dumanet Joub Alcime.
+2024-07-23 11:16:37 - INFO - No valid data to send for Frank Albert.
+2024-07-23 11:16:37 - INFO - No valid data to send for Garth Jones PA.
+2024-07-23 11:16:37 - INFO - No valid data to send for Heather Fitzpatrick.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jackie De La Rosa.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jason Cooper.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jesse Carriedo.
+2024-07-23 11:16:37 - INFO - No valid data to send for Joe Medina.
+2024-07-23 11:16:37 - INFO - No valid data to send for KC Carty.
+2024-07-23 11:16:37 - INFO - No valid data to send for Kristy Darragh.
+2024-07-23 11:16:37 - INFO - No valid data to send for Matt Gardner.
+2024-07-23 11:16:37 - INFO - No valid data to send for Melissa Davis.
+2024-07-23 11:16:37 - INFO - No valid data to send for Michael Melnyk.
+2024-07-23 11:16:37 - INFO - No valid data to send for Not found.
+2024-07-23 11:16:37 - INFO - No valid data to send for Rob Jones.
+2024-07-23 11:16:37 - INFO - No valid data to send for Stephen Gay.
+2024-07-23 11:16:37 - INFO - No valid data to send for Stephen Hachey.
+2024-07-23 11:16:37 - INFO - No valid data to send for Steven Koleno.
+2024-07-23 11:16:37 - INFO - No valid data to send for Susan Witzigman.
+2024-07-23 11:16:37 - INFO - No valid data to send for Taylor Cresswell.
+2024-07-23 11:16:37 - INFO - No valid data to send for Zachary Vath.
+2024-07-23 11:16:37 - INFO - No valid data to send for Chad Crookes.
+2024-07-23 11:16:37 - INFO - No valid data to send for Gisselle Amparo.
+2024-07-23 11:16:37 - INFO - No valid data to send for Chandler Thompson.
+2024-07-23 11:16:37 - INFO - No valid data to send for Chris Thompson.
+2024-07-23 11:16:37 - INFO - No valid data to send for Toni Everett.
+2024-07-23 11:16:37 - INFO - No valid data to send for Eleydi Alvarez Lopez, LLC.
+2024-07-23 11:16:37 - INFO - No valid data to send for Lori Lahart.
+2024-07-23 11:16:37 - INFO - No valid data to send for Alla Giovinco.
+2024-07-23 11:16:37 - INFO - No valid data to send for Amy Conrad.
+2024-07-23 11:16:37 - INFO - No valid data to send for Antonio Brucato.
+2024-07-23 11:16:37 - INFO - No valid data to send for Arielle Corinti.
+2024-07-23 11:16:37 - INFO - No valid data to send for Bob Peercy.
+2024-07-23 11:16:37 - INFO - No valid data to send for Bradley Gruber.
+2024-07-23 11:16:37 - INFO - No valid data to send for Brenda Christian.
+2024-07-23 11:16:37 - INFO - No valid data to send for Brenda Rider.
+2024-07-23 11:16:37 - INFO - No valid data to send for Brian Kanicki.
+2024-07-23 11:16:37 - INFO - No valid data to send for Bridget Rowles.
+2024-07-23 11:16:37 - INFO - No valid data to send for Casey Gibson, P.A..
+2024-07-23 11:16:37 - INFO - No valid data to send for Cathy Hypes.
+2024-07-23 11:16:37 - INFO - No valid data to send for Catrina Mursch.
+2024-07-23 11:16:37 - INFO - No valid data to send for Chris Parrado.
+2024-07-23 11:16:37 - INFO - No valid data to send for Cody Brightwell.
+2024-07-23 11:16:37 - INFO - No valid data to send for Colleen Welch.
+2024-07-23 11:16:37 - INFO - No valid data to send for Crystal Brady.
+2024-07-23 11:16:37 - INFO - No valid data to send for Dale Ling.
+2024-07-23 11:16:37 - INFO - No valid data to send for Daniel Cuevas.
+2024-07-23 11:16:37 - INFO - No valid data to send for Daniel Fox.
+2024-07-23 11:16:37 - INFO - No valid data to send for Darren Kempf.
+2024-07-23 11:16:37 - INFO - No valid data to send for Dave Green.
+2024-07-23 11:16:37 - INFO - No valid data to send for David Price.
+2024-07-23 11:16:37 - INFO - No valid data to send for Dayna Santana.
+2024-07-23 11:16:37 - INFO - No valid data to send for DeeAnn Becht.
+2024-07-23 11:16:37 - INFO - No valid data to send for Denice Spanola.
+2024-07-23 11:16:37 - INFO - No valid data to send for Diana Pomarico PA.
+2024-07-23 11:16:37 - INFO - No valid data to send for Donnell Carter.
+2024-07-23 11:16:37 - INFO - No valid data to send for Edgar Berben.
+2024-07-23 11:16:37 - INFO - No valid data to send for Estrellita Woerner.
+2024-07-23 11:16:37 - INFO - No valid data to send for Fakir Hossain.
+2024-07-23 11:16:37 - INFO - No valid data to send for Florin Patrascoiu.
+2024-07-23 11:16:37 - INFO - No valid data to send for Gabby Medrano.
+2024-07-23 11:16:37 - INFO - No valid data to send for Gabriel Molinet.
+2024-07-23 11:16:37 - INFO - No valid data to send for Gabrielle Palazzo.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jac Smith.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jacqueline Toledo LLC.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jeff Wong.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jenny Rothman.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jorge Zea.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jose Espinosa.
+2024-07-23 11:16:37 - INFO - No valid data to send for Justin Hubbard.
+2024-07-23 11:16:37 - INFO - No valid data to send for Justin Ricke.
+2024-07-23 11:16:37 - INFO - No valid data to send for Karen Young.
+2024-07-23 11:16:37 - INFO - No valid data to send for Kari Workman.
+2024-07-23 11:16:37 - INFO - No valid data to send for Karl Lawrence.
+2024-07-23 11:16:37 - INFO - No valid data to send for Katrina Madewell.
+2024-07-23 11:16:37 - INFO - No valid data to send for Kayla Faye Rhodes.
+2024-07-23 11:16:37 - INFO - No valid data to send for Kimberly Fleming.
+2024-07-23 11:16:37 - INFO - No valid data to send for Leslie Sibbitt.
+2024-07-23 11:16:37 - INFO - No valid data to send for Lexi Guice.
+2024-07-23 11:16:37 - INFO - No valid data to send for Linda Aiken.
+2024-07-23 11:16:37 - INFO - No valid data to send for Linda Temples.
+2024-07-23 11:16:37 - INFO - No valid data to send for Linda Thrasher-Donalson.
+2024-07-23 11:16:37 - INFO - No valid data to send for Lisa Prisco.
+2024-07-23 11:16:37 - INFO - No valid data to send for Louis Pullara, Jr.
+2024-07-23 11:16:37 - INFO - No valid data to send for Manish Ajvalia.
+2024-07-23 11:16:37 - INFO - No valid data to send for Maria Santana.
+2024-07-23 11:16:37 - INFO - No valid data to send for Mariam Berrios.
+2024-07-23 11:16:37 - INFO - No valid data to send for Mark Cordasco.
+2024-07-23 11:16:37 - INFO - No valid data to send for Matt Pereira.
+2024-07-23 11:16:37 - INFO - No valid data to send for Matt Sofarelli.
+2024-07-23 11:16:37 - INFO - No valid data to send for Merlyn Velez Bodib.
+2024-07-23 11:16:37 - INFO - No valid data to send for Mervin Walls.
+2024-07-23 11:16:37 - INFO - No valid data to send for Michael Peeples.
+2024-07-23 11:16:37 - INFO - No valid data to send for Milan Candela.
+2024-07-23 11:16:37 - INFO - No valid data to send for Monique Simpson.
+2024-07-23 11:16:37 - INFO - No valid data to send for Nelson Mateus.
+2024-07-23 11:16:37 - INFO - No valid data to send for Pam Richardson.
+2024-07-23 11:16:37 - INFO - No valid data to send for Pat Moxley.
+2024-07-23 11:16:37 - INFO - No valid data to send for Patti Webster.
+2024-07-23 11:16:37 - INFO - No valid data to send for Pete Radeka.
+2024-07-23 11:16:37 - INFO - No valid data to send for Peter Murphy.
+2024-07-23 11:16:37 - INFO - No valid data to send for Precious Wilson.
+2024-07-23 11:16:37 - INFO - No valid data to send for RJ Kulangara.
+2024-07-23 11:16:37 - INFO - No valid data to send for Randall Heffernan.
+2024-07-23 11:16:37 - INFO - No valid data to send for Randy Click.
+2024-07-23 11:16:37 - INFO - No valid data to send for Ray Garza.
+2024-07-23 11:16:37 - INFO - No valid data to send for Richard Simonetti.
+2024-07-23 11:16:37 - INFO - No valid data to send for Roxanne Rose.
+2024-07-23 11:16:37 - INFO - No valid data to send for Ryan Smith.
+2024-07-23 11:16:37 - INFO - No valid data to send for Sandee Dillon-Mooney.
+2024-07-23 11:16:37 - INFO - No valid data to send for Sandy Streit.
+2024-07-23 11:16:37 - INFO - No valid data to send for Shawn Miller.
+2024-07-23 11:16:37 - INFO - No valid data to send for Shelly Espy.
+2024-07-23 11:16:37 - INFO - No valid data to send for Skyler Warden.
+2024-07-23 11:16:37 - INFO - No valid data to send for Stephanie Glenn.
+2024-07-23 11:16:37 - INFO - No valid data to send for Taylor Schaberg.
+2024-07-23 11:16:37 - INFO - No valid data to send for Tyler Loyd.
+2024-07-23 11:16:37 - INFO - No valid data to send for Vladymir Joseph.
+2024-07-23 11:16:37 - INFO - No valid data to send for Vojtech Bosek.
+2024-07-23 11:16:37 - INFO - No valid data to send for Yvonne Reyes.
+2024-07-23 11:16:37 - INFO - No valid data to send for Zaida Darley.
+2024-07-23 11:16:37 - INFO - No valid data to send for A.J. Altieri.
+2024-07-23 11:16:37 - INFO - No valid data to send for Anna Mazo.
+2024-07-23 11:16:37 - INFO - No valid data to send for Carla Perez.
+2024-07-23 11:16:37 - INFO - No valid data to send for Chris Jones.
+2024-07-23 11:16:37 - INFO - No valid data to send for Darrell Herbert.
+2024-07-23 11:16:37 - INFO - No valid data to send for Deb Breaw.
+2024-07-23 11:16:37 - INFO - No valid data to send for Debra Fitzgerald.
+2024-07-23 11:16:37 - INFO - No valid data to send for Derek Hessler.
+2024-07-23 11:16:37 - INFO - No valid data to send for Doreen Greco Ide.
+2024-07-23 11:16:37 - INFO - No valid data to send for Duyen Vo.
+2024-07-23 11:16:37 - INFO - No valid data to send for Eduardo San Roman.
+2024-07-23 11:16:37 - INFO - No valid data to send for Emmy Butte.
+2024-07-23 11:16:37 - INFO - No valid data to send for Erica Burgos.
+2024-07-23 11:16:37 - INFO - No valid data to send for Erika Greene.
+2024-07-23 11:16:37 - INFO - No valid data to send for Isabel Surtani.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jada Uludag.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jared Warren.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jason Aprile.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jeffrey Gould.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jesse Hoover.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jillianne Graham.
+2024-07-23 11:16:37 - INFO - No valid data to send for Johanna Diaz.
+2024-07-23 11:16:37 - INFO - No valid data to send for Justin Ure.
+2024-07-23 11:16:37 - INFO - No valid data to send for Lara Champ Mays LLC.
+2024-07-23 11:16:37 - INFO - No valid data to send for Manny Sabogal.
+2024-07-23 11:16:37 - INFO - No valid data to send for Marcus Jeudy.
+2024-07-23 11:16:37 - INFO - No valid data to send for Maria Miller.
+2024-07-23 11:16:37 - INFO - No valid data to send for Matthew Derocher.
+2024-07-23 11:16:37 - INFO - No valid data to send for Melody Gallion.
+2024-07-23 11:16:37 - INFO - No valid data to send for Michelle DiGiore.
+2024-07-23 11:16:37 - INFO - No valid data to send for Mike Bosko.
+2024-07-23 11:16:37 - INFO - No valid data to send for Mindy Nguyen.
+2024-07-23 11:16:37 - INFO - No valid data to send for Nadine Mamontoff.
+2024-07-23 11:16:37 - INFO - No valid data to send for Nesil Uzunoglu.
+2024-07-23 11:16:37 - INFO - No valid data to send for Noemi Fuentes.
+2024-07-23 11:16:37 - INFO - No valid data to send for Omar Montero Escobar.
+2024-07-23 11:16:37 - INFO - No valid data to send for Sheri Scott.
+2024-07-23 11:16:37 - INFO - No valid data to send for Sirky Medina Gracia.
+2024-07-23 11:16:37 - INFO - No valid data to send for Steven Moran.
+2024-07-23 11:16:37 - INFO - No valid data to send for Team Pillay Pillay.
+2024-07-23 11:16:37 - INFO - No valid data to send for Trudy McClellan.
+2024-07-23 11:16:37 - INFO - No valid data to send for Vicki Strickler.
+2024-07-23 11:16:37 - INFO - No valid data to send for William Alvarez, Jr.
+2024-07-23 11:16:37 - INFO - No valid data to send for Yuleidis Cutino Aladro.
+2024-07-23 11:16:37 - INFO - No valid data to send for Aaron Mighty.
+2024-07-23 11:16:37 - INFO - No valid data to send for Alex Gromkov.
+2024-07-23 11:16:37 - INFO - No valid data to send for Andre Tamburello.
+2024-07-23 11:16:37 - INFO - No valid data to send for Andrea Hernandez.
+2024-07-23 11:16:37 - INFO - No valid data to send for Angel Miller.
+2024-07-23 11:16:37 - INFO - No valid data to send for Angela Martin.
+2024-07-23 11:16:37 - INFO - No valid data to send for Ashley Mason.
+2024-07-23 11:16:37 - INFO - No valid data to send for Barbara Barco.
+2024-07-23 11:16:37 - INFO - No valid data to send for Brigittia Nickel-Long.
+2024-07-23 11:16:37 - INFO - No valid data to send for Carol Frier.
+2024-07-23 11:16:37 - INFO - No valid data to send for Celia Petters, PA.
+2024-07-23 11:16:37 - INFO - No valid data to send for Connor Loyd.
+2024-07-23 11:16:37 - INFO - No valid data to send for Dawn Turner.
+2024-07-23 11:16:37 - INFO - No valid data to send for Dean Diakonis.
+2024-07-23 11:16:37 - INFO - No valid data to send for Dillon Cook.
+2024-07-23 11:16:37 - INFO - No valid data to send for Gail Beskid.
+2024-07-23 11:16:37 - INFO - No valid data to send for Gina Guimoye Ehremberg.
+2024-07-23 11:16:37 - INFO - No valid data to send for Gouzel Kash.
+2024-07-23 11:16:37 - INFO - No valid data to send for Gustavo Serpa.
+2024-07-23 11:16:37 - INFO - No valid data to send for Ingrid Dodd.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jack Keller.
+2024-07-23 11:16:37 - INFO - No valid data to send for Joby Pullappally.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jodi Pollack.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jose Ortiz.
+2024-07-23 11:16:37 - INFO - No valid data to send for Julie Lawrence.
+2024-07-23 11:16:37 - INFO - No valid data to send for Kathleen Wainoris.
+2024-07-23 11:16:37 - INFO - No valid data to send for Leza Sharipoff.
+2024-07-23 11:16:37 - INFO - No valid data to send for Lynne Halleran.
+2024-07-23 11:16:37 - INFO - No valid data to send for Michael LaVoy, PA.
+2024-07-23 11:16:37 - INFO - No valid data to send for Patrick Tillett.
+2024-07-23 11:16:37 - INFO - No valid data to send for Richard Brown.
+2024-07-23 11:16:37 - INFO - No valid data to send for Ryan Chamblee.
+2024-07-23 11:16:37 - INFO - No valid data to send for Taylor Clark.
+2024-07-23 11:16:37 - INFO - No valid data to send for Todd Bennett.
+2024-07-23 11:16:37 - INFO - No valid data to send for Yesenia Castillo.
+2024-07-23 11:16:37 - INFO - No valid data to send for Yudit Grisanty.
+2024-07-23 11:16:37 - INFO - No valid data to send for Charnie Reyes.
+2024-07-23 11:16:37 - INFO - No valid data to send for DAVE McCann.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jennifer Boleyn.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jennifer Dobbs.
+2024-07-23 11:16:37 - INFO - No valid data to send for John Daux PA.
+2024-07-23 11:16:37 - INFO - No valid data to send for Paul Farr.
+2024-07-23 11:16:37 - INFO - No valid data to send for Punit Shah.
+2024-07-23 11:16:37 - INFO - No valid data to send for Rafael Lozano, III.
+2024-07-23 11:16:37 - INFO - No valid data to send for Ryan Kirby.
+2024-07-23 11:16:37 - INFO - No valid data to send for Will Daoud.
+2024-07-23 11:16:37 - INFO - No valid data to send for Ylivette Hoepelman.
+2024-07-23 11:16:37 - INFO - No valid data to send for Jeremy Kloter.
+2024-07-23 11:16:37 - INFO - No valid data to send for Joy Lolli.
+2024-07-23 11:16:37 - INFO - No valid data to send for Julio Manso.
+2024-07-23 11:16:37 - INFO - No valid data to send for Marvin Felix.
+2024-07-23 11:16:37 - INFO - No valid data to send for Ryan Hackney.
+2024-07-23 11:16:37 - INFO - No valid data to send for Zachary Boyle.
+2024-07-23 11:16:37 - ERROR - Data for A.B. Mull is not a list. Skipping...
+2024-07-23 11:16:37 - ERROR - Data for Agnes Lirag is not a list. Skipping...
+2024-07-23 11:16:37 - ERROR - Data for Aida Falla is not a list. Skipping...
+2024-07-23 11:16:37 - ERROR - Data for Aldo Delacruz is not a list. Skipping...
+2024-07-23 11:16:37 - ERROR - Data for Alfredo Rodriguez Fonseca is not a list. Skipping...
+2024-07-23 11:16:37 - INFO - Total successful sends: 0
+2024-07-23 11:16:37 - INFO - Total failed sends: 0
+2024-07-23 11:16:37 - INFO - Total no-data scenarios: 231
+2024-07-23 11:19:03 - INFO - Webhook URLs loaded: {'collete': {'create_contact': 'https://backend.leadconnectorhq.com/hooks/F1IhEd60NGym9Rgz1AbB/webhook-trigger/bCvtee0BGQB6JVtLFkHe', 'expired_listing': 'https://backend.leadconnectorhq.com/hooks/F1IhEd60NGym9Rgz1AbB/webhook-trigger/RM4tnvNrQf9vJR4z39R8'}}
+2024-07-23 11:19:03 - INFO - No valid data to send for Amanda Reece.
+2024-07-23 11:19:03 - INFO - No valid data to send for Bradley Chais.
+2024-07-23 11:19:03 - INFO - No valid data to send for Brenda Wade.
+2024-07-23 11:19:03 - INFO - No valid data to send for Carson Kovath.
+2024-07-23 11:19:03 - INFO - No valid data to send for Casandra Vann.
+2024-07-23 11:19:03 - INFO - No valid data to send for Cisco Hernandez.
+2024-07-23 11:19:03 - INFO - No valid data to send for Danielle Jones.
+2024-07-23 11:19:03 - INFO - No valid data to send for David O'Brien.
+2024-07-23 11:19:03 - INFO - No valid data to send for Dawn Walls.
+2024-07-23 11:19:03 - INFO - No valid data to send for Denise Helbig.
+2024-07-23 11:19:03 - INFO - No valid data to send for Diane Huson, PA.
+2024-07-23 11:19:03 - INFO - No valid data to send for Dick Nielsen.
+2024-07-23 11:19:03 - INFO - No valid data to send for Don Suda.
+2024-07-23 11:19:03 - INFO - No valid data to send for Dumanet Joub Alcime.
+2024-07-23 11:19:03 - INFO - No valid data to send for Frank Albert.
+2024-07-23 11:19:03 - INFO - No valid data to send for Garth Jones PA.
+2024-07-23 11:19:03 - INFO - No valid data to send for Heather Fitzpatrick.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jackie De La Rosa.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jason Cooper.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jesse Carriedo.
+2024-07-23 11:19:03 - INFO - No valid data to send for Joe Medina.
+2024-07-23 11:19:03 - INFO - No valid data to send for KC Carty.
+2024-07-23 11:19:03 - INFO - No valid data to send for Kristy Darragh.
+2024-07-23 11:19:03 - INFO - No valid data to send for Matt Gardner.
+2024-07-23 11:19:03 - INFO - No valid data to send for Melissa Davis.
+2024-07-23 11:19:03 - INFO - No valid data to send for Michael Melnyk.
+2024-07-23 11:19:03 - INFO - No valid data to send for Not found.
+2024-07-23 11:19:03 - INFO - No valid data to send for Rob Jones.
+2024-07-23 11:19:03 - INFO - No valid data to send for Stephen Gay.
+2024-07-23 11:19:03 - INFO - No valid data to send for Stephen Hachey.
+2024-07-23 11:19:03 - INFO - No valid data to send for Steven Koleno.
+2024-07-23 11:19:03 - INFO - No valid data to send for Susan Witzigman.
+2024-07-23 11:19:03 - INFO - No valid data to send for Taylor Cresswell.
+2024-07-23 11:19:03 - INFO - No valid data to send for Zachary Vath.
+2024-07-23 11:19:03 - INFO - No valid data to send for Chad Crookes.
+2024-07-23 11:19:03 - INFO - No valid data to send for Gisselle Amparo.
+2024-07-23 11:19:03 - INFO - No valid data to send for Chandler Thompson.
+2024-07-23 11:19:03 - INFO - No valid data to send for Chris Thompson.
+2024-07-23 11:19:03 - INFO - No valid data to send for Toni Everett.
+2024-07-23 11:19:03 - INFO - No valid data to send for Eleydi Alvarez Lopez, LLC.
+2024-07-23 11:19:03 - INFO - No valid data to send for Lori Lahart.
+2024-07-23 11:19:03 - INFO - No valid data to send for Alla Giovinco.
+2024-07-23 11:19:03 - INFO - No valid data to send for Amy Conrad.
+2024-07-23 11:19:03 - INFO - No valid data to send for Antonio Brucato.
+2024-07-23 11:19:03 - INFO - No valid data to send for Arielle Corinti.
+2024-07-23 11:19:03 - INFO - No valid data to send for Bob Peercy.
+2024-07-23 11:19:03 - INFO - No valid data to send for Bradley Gruber.
+2024-07-23 11:19:03 - INFO - No valid data to send for Brenda Christian.
+2024-07-23 11:19:03 - INFO - No valid data to send for Brenda Rider.
+2024-07-23 11:19:03 - INFO - No valid data to send for Brian Kanicki.
+2024-07-23 11:19:03 - INFO - No valid data to send for Bridget Rowles.
+2024-07-23 11:19:03 - INFO - No valid data to send for Casey Gibson, P.A..
+2024-07-23 11:19:03 - INFO - No valid data to send for Cathy Hypes.
+2024-07-23 11:19:03 - INFO - No valid data to send for Catrina Mursch.
+2024-07-23 11:19:03 - INFO - No valid data to send for Chris Parrado.
+2024-07-23 11:19:03 - INFO - No valid data to send for Cody Brightwell.
+2024-07-23 11:19:03 - INFO - No valid data to send for Colleen Welch.
+2024-07-23 11:19:03 - INFO - No valid data to send for Crystal Brady.
+2024-07-23 11:19:03 - INFO - No valid data to send for Dale Ling.
+2024-07-23 11:19:03 - INFO - No valid data to send for Daniel Cuevas.
+2024-07-23 11:19:03 - INFO - No valid data to send for Daniel Fox.
+2024-07-23 11:19:03 - INFO - No valid data to send for Darren Kempf.
+2024-07-23 11:19:03 - INFO - No valid data to send for Dave Green.
+2024-07-23 11:19:03 - INFO - No valid data to send for David Price.
+2024-07-23 11:19:03 - INFO - No valid data to send for Dayna Santana.
+2024-07-23 11:19:03 - INFO - No valid data to send for DeeAnn Becht.
+2024-07-23 11:19:03 - INFO - No valid data to send for Denice Spanola.
+2024-07-23 11:19:03 - INFO - No valid data to send for Diana Pomarico PA.
+2024-07-23 11:19:03 - INFO - No valid data to send for Donnell Carter.
+2024-07-23 11:19:03 - INFO - No valid data to send for Edgar Berben.
+2024-07-23 11:19:03 - INFO - No valid data to send for Estrellita Woerner.
+2024-07-23 11:19:03 - INFO - No valid data to send for Fakir Hossain.
+2024-07-23 11:19:03 - INFO - No valid data to send for Florin Patrascoiu.
+2024-07-23 11:19:03 - INFO - No valid data to send for Gabby Medrano.
+2024-07-23 11:19:03 - INFO - No valid data to send for Gabriel Molinet.
+2024-07-23 11:19:03 - INFO - No valid data to send for Gabrielle Palazzo.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jac Smith.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jacqueline Toledo LLC.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jeff Wong.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jenny Rothman.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jorge Zea.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jose Espinosa.
+2024-07-23 11:19:03 - INFO - No valid data to send for Justin Hubbard.
+2024-07-23 11:19:03 - INFO - No valid data to send for Justin Ricke.
+2024-07-23 11:19:03 - INFO - No valid data to send for Karen Young.
+2024-07-23 11:19:03 - INFO - No valid data to send for Kari Workman.
+2024-07-23 11:19:03 - INFO - No valid data to send for Karl Lawrence.
+2024-07-23 11:19:03 - INFO - No valid data to send for Katrina Madewell.
+2024-07-23 11:19:03 - INFO - No valid data to send for Kayla Faye Rhodes.
+2024-07-23 11:19:03 - INFO - No valid data to send for Kimberly Fleming.
+2024-07-23 11:19:03 - INFO - No valid data to send for Leslie Sibbitt.
+2024-07-23 11:19:03 - INFO - No valid data to send for Lexi Guice.
+2024-07-23 11:19:03 - INFO - No valid data to send for Linda Aiken.
+2024-07-23 11:19:03 - INFO - No valid data to send for Linda Temples.
+2024-07-23 11:19:03 - INFO - No valid data to send for Linda Thrasher-Donalson.
+2024-07-23 11:19:03 - INFO - No valid data to send for Lisa Prisco.
+2024-07-23 11:19:03 - INFO - No valid data to send for Louis Pullara, Jr.
+2024-07-23 11:19:03 - INFO - No valid data to send for Manish Ajvalia.
+2024-07-23 11:19:03 - INFO - No valid data to send for Maria Santana.
+2024-07-23 11:19:03 - INFO - No valid data to send for Mariam Berrios.
+2024-07-23 11:19:03 - INFO - No valid data to send for Mark Cordasco.
+2024-07-23 11:19:03 - INFO - No valid data to send for Matt Pereira.
+2024-07-23 11:19:03 - INFO - No valid data to send for Matt Sofarelli.
+2024-07-23 11:19:03 - INFO - No valid data to send for Merlyn Velez Bodib.
+2024-07-23 11:19:03 - INFO - No valid data to send for Mervin Walls.
+2024-07-23 11:19:03 - INFO - No valid data to send for Michael Peeples.
+2024-07-23 11:19:03 - INFO - No valid data to send for Milan Candela.
+2024-07-23 11:19:03 - INFO - No valid data to send for Monique Simpson.
+2024-07-23 11:19:03 - INFO - No valid data to send for Nelson Mateus.
+2024-07-23 11:19:03 - INFO - No valid data to send for Pam Richardson.
+2024-07-23 11:19:03 - INFO - No valid data to send for Pat Moxley.
+2024-07-23 11:19:03 - INFO - No valid data to send for Patti Webster.
+2024-07-23 11:19:03 - INFO - No valid data to send for Pete Radeka.
+2024-07-23 11:19:03 - INFO - No valid data to send for Peter Murphy.
+2024-07-23 11:19:03 - INFO - No valid data to send for Precious Wilson.
+2024-07-23 11:19:03 - INFO - No valid data to send for RJ Kulangara.
+2024-07-23 11:19:03 - INFO - No valid data to send for Randall Heffernan.
+2024-07-23 11:19:03 - INFO - No valid data to send for Randy Click.
+2024-07-23 11:19:03 - INFO - No valid data to send for Ray Garza.
+2024-07-23 11:19:03 - INFO - No valid data to send for Richard Simonetti.
+2024-07-23 11:19:03 - INFO - No valid data to send for Roxanne Rose.
+2024-07-23 11:19:03 - INFO - No valid data to send for Ryan Smith.
+2024-07-23 11:19:03 - INFO - No valid data to send for Sandee Dillon-Mooney.
+2024-07-23 11:19:03 - INFO - No valid data to send for Sandy Streit.
+2024-07-23 11:19:03 - INFO - No valid data to send for Shawn Miller.
+2024-07-23 11:19:03 - INFO - No valid data to send for Shelly Espy.
+2024-07-23 11:19:03 - INFO - No valid data to send for Skyler Warden.
+2024-07-23 11:19:03 - INFO - No valid data to send for Stephanie Glenn.
+2024-07-23 11:19:03 - INFO - No valid data to send for Taylor Schaberg.
+2024-07-23 11:19:03 - INFO - No valid data to send for Tyler Loyd.
+2024-07-23 11:19:03 - INFO - No valid data to send for Vladymir Joseph.
+2024-07-23 11:19:03 - INFO - No valid data to send for Vojtech Bosek.
+2024-07-23 11:19:03 - INFO - No valid data to send for Yvonne Reyes.
+2024-07-23 11:19:03 - INFO - No valid data to send for Zaida Darley.
+2024-07-23 11:19:03 - INFO - No valid data to send for A.J. Altieri.
+2024-07-23 11:19:03 - INFO - No valid data to send for Anna Mazo.
+2024-07-23 11:19:03 - INFO - No valid data to send for Carla Perez.
+2024-07-23 11:19:03 - INFO - No valid data to send for Chris Jones.
+2024-07-23 11:19:03 - INFO - No valid data to send for Darrell Herbert.
+2024-07-23 11:19:03 - INFO - No valid data to send for Deb Breaw.
+2024-07-23 11:19:03 - INFO - No valid data to send for Debra Fitzgerald.
+2024-07-23 11:19:03 - INFO - No valid data to send for Derek Hessler.
+2024-07-23 11:19:03 - INFO - No valid data to send for Doreen Greco Ide.
+2024-07-23 11:19:03 - INFO - No valid data to send for Duyen Vo.
+2024-07-23 11:19:03 - INFO - No valid data to send for Eduardo San Roman.
+2024-07-23 11:19:03 - INFO - No valid data to send for Emmy Butte.
+2024-07-23 11:19:03 - INFO - No valid data to send for Erica Burgos.
+2024-07-23 11:19:03 - INFO - No valid data to send for Erika Greene.
+2024-07-23 11:19:03 - INFO - No valid data to send for Isabel Surtani.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jada Uludag.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jared Warren.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jason Aprile.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jeffrey Gould.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jesse Hoover.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jillianne Graham.
+2024-07-23 11:19:03 - INFO - No valid data to send for Johanna Diaz.
+2024-07-23 11:19:03 - INFO - No valid data to send for Justin Ure.
+2024-07-23 11:19:03 - INFO - No valid data to send for Lara Champ Mays LLC.
+2024-07-23 11:19:03 - INFO - No valid data to send for Manny Sabogal.
+2024-07-23 11:19:03 - INFO - No valid data to send for Marcus Jeudy.
+2024-07-23 11:19:03 - INFO - No valid data to send for Maria Miller.
+2024-07-23 11:19:03 - INFO - No valid data to send for Matthew Derocher.
+2024-07-23 11:19:03 - INFO - No valid data to send for Melody Gallion.
+2024-07-23 11:19:03 - INFO - No valid data to send for Michelle DiGiore.
+2024-07-23 11:19:03 - INFO - No valid data to send for Mike Bosko.
+2024-07-23 11:19:03 - INFO - No valid data to send for Mindy Nguyen.
+2024-07-23 11:19:03 - INFO - No valid data to send for Nadine Mamontoff.
+2024-07-23 11:19:03 - INFO - No valid data to send for Nesil Uzunoglu.
+2024-07-23 11:19:03 - INFO - No valid data to send for Noemi Fuentes.
+2024-07-23 11:19:03 - INFO - No valid data to send for Omar Montero Escobar.
+2024-07-23 11:19:03 - INFO - No valid data to send for Sheri Scott.
+2024-07-23 11:19:03 - INFO - No valid data to send for Sirky Medina Gracia.
+2024-07-23 11:19:03 - INFO - No valid data to send for Steven Moran.
+2024-07-23 11:19:03 - INFO - No valid data to send for Team Pillay Pillay.
+2024-07-23 11:19:03 - INFO - No valid data to send for Trudy McClellan.
+2024-07-23 11:19:03 - INFO - No valid data to send for Vicki Strickler.
+2024-07-23 11:19:03 - INFO - No valid data to send for William Alvarez, Jr.
+2024-07-23 11:19:03 - INFO - No valid data to send for Yuleidis Cutino Aladro.
+2024-07-23 11:19:03 - INFO - No valid data to send for Aaron Mighty.
+2024-07-23 11:19:03 - INFO - No valid data to send for Alex Gromkov.
+2024-07-23 11:19:03 - INFO - No valid data to send for Andre Tamburello.
+2024-07-23 11:19:03 - INFO - No valid data to send for Andrea Hernandez.
+2024-07-23 11:19:03 - INFO - No valid data to send for Angel Miller.
+2024-07-23 11:19:03 - INFO - No valid data to send for Angela Martin.
+2024-07-23 11:19:03 - INFO - No valid data to send for Ashley Mason.
+2024-07-23 11:19:03 - INFO - No valid data to send for Barbara Barco.
+2024-07-23 11:19:03 - INFO - No valid data to send for Brigittia Nickel-Long.
+2024-07-23 11:19:03 - INFO - No valid data to send for Carol Frier.
+2024-07-23 11:19:03 - INFO - No valid data to send for Celia Petters, PA.
+2024-07-23 11:19:03 - INFO - No valid data to send for Connor Loyd.
+2024-07-23 11:19:03 - INFO - No valid data to send for Dawn Turner.
+2024-07-23 11:19:03 - INFO - No valid data to send for Dean Diakonis.
+2024-07-23 11:19:03 - INFO - No valid data to send for Dillon Cook.
+2024-07-23 11:19:03 - INFO - No valid data to send for Gail Beskid.
+2024-07-23 11:19:03 - INFO - No valid data to send for Gina Guimoye Ehremberg.
+2024-07-23 11:19:03 - INFO - No valid data to send for Gouzel Kash.
+2024-07-23 11:19:03 - INFO - No valid data to send for Gustavo Serpa.
+2024-07-23 11:19:03 - INFO - No valid data to send for Ingrid Dodd.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jack Keller.
+2024-07-23 11:19:03 - INFO - No valid data to send for Joby Pullappally.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jodi Pollack.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jose Ortiz.
+2024-07-23 11:19:03 - INFO - No valid data to send for Julie Lawrence.
+2024-07-23 11:19:03 - INFO - No valid data to send for Kathleen Wainoris.
+2024-07-23 11:19:03 - INFO - No valid data to send for Leza Sharipoff.
+2024-07-23 11:19:03 - INFO - No valid data to send for Lynne Halleran.
+2024-07-23 11:19:03 - INFO - No valid data to send for Michael LaVoy, PA.
+2024-07-23 11:19:03 - INFO - No valid data to send for Patrick Tillett.
+2024-07-23 11:19:03 - INFO - No valid data to send for Richard Brown.
+2024-07-23 11:19:03 - INFO - No valid data to send for Ryan Chamblee.
+2024-07-23 11:19:03 - INFO - No valid data to send for Taylor Clark.
+2024-07-23 11:19:03 - INFO - No valid data to send for Todd Bennett.
+2024-07-23 11:19:03 - INFO - No valid data to send for Yesenia Castillo.
+2024-07-23 11:19:03 - INFO - No valid data to send for Yudit Grisanty.
+2024-07-23 11:19:03 - INFO - No valid data to send for Charnie Reyes.
+2024-07-23 11:19:03 - INFO - No valid data to send for DAVE McCann.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jennifer Boleyn.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jennifer Dobbs.
+2024-07-23 11:19:03 - INFO - No valid data to send for John Daux PA.
+2024-07-23 11:19:03 - INFO - No valid data to send for Paul Farr.
+2024-07-23 11:19:03 - INFO - No valid data to send for Punit Shah.
+2024-07-23 11:19:03 - INFO - No valid data to send for Rafael Lozano, III.
+2024-07-23 11:19:03 - INFO - No valid data to send for Ryan Kirby.
+2024-07-23 11:19:03 - INFO - No valid data to send for Will Daoud.
+2024-07-23 11:19:03 - INFO - No valid data to send for Ylivette Hoepelman.
+2024-07-23 11:19:03 - INFO - No valid data to send for Jeremy Kloter.
+2024-07-23 11:19:03 - INFO - No valid data to send for Joy Lolli.
+2024-07-23 11:19:03 - INFO - No valid data to send for Julio Manso.
+2024-07-23 11:19:03 - INFO - No valid data to send for Marvin Felix.
+2024-07-23 11:19:03 - INFO - No valid data to send for Ryan Hackney.
+2024-07-23 11:19:03 - INFO - No valid data to send for Zachary Boyle.
+2024-07-23 11:19:03 - ERROR - Data for A.B. Mull is not a list. Skipping...
+2024-07-23 11:19:03 - ERROR - Data for Agnes Lirag is not a list. Skipping...
+2024-07-23 11:19:03 - ERROR - Data for Aida Falla is not a list. Skipping...
+2024-07-23 11:19:03 - ERROR - Data for Aldo Delacruz is not a list. Skipping...
+2024-07-23 11:19:03 - ERROR - Data for Alfredo Rodriguez Fonseca is not a list. Skipping...
+2024-07-23 11:19:03 - INFO - Total successful sends: 0
+2024-07-23 11:19:03 - INFO - Total failed sends: 0
+2024-07-23 11:19:03 - INFO - Total no-data scenarios: 231
